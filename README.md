@@ -1,15 +1,17 @@
-Hi, I’m Vatsal Omar
+# Hi, I’m Vatsal Omar 👋
 
-Skills : Java, JavaScript, Python, Spring Boot, React.js, Node.js, Express.js, Data Science
+### 🌟 Skills:
+- **Languages**: Java, JavaScript, Python
+- **Frameworks & Tools**: Spring Boot, React.js, Node.js, Express.js
+- **Other**: Data Science
 
-LinkedIn : https://www.linkedin.com/in/vatsal-omar-458975266
+### 🔗 Connect with me:
+- **LinkedIn**: [Vatsal Omar](https://www.linkedin.com/in/vatsal-omar-458975266)
+- **LeetCode**: [Vatsal](https://leetcode.com/u/Vatsal__)
 
-LeetCode : https://leetcode.com/u/Vatsal__
+### 💡 Interests:
+- Full Stack Development
+- Artificial Intelligence & Machine Learning
 
-Interest : Full Stack Developement, AI/ML
+---
 
-
-<!---
-vatsalllll/vatsalllll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
