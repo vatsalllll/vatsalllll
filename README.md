@@ -1,8 +1,8 @@
 # Hi, I’m Vatsal Omar 👋
 
 ### 🌟 Skills:
-- **Languages**: Java, JavaScript, Python
-- **Frameworks & Tools**: Spring Boot, React.js, Node.js, Express.js
+- **Languages**: Java, JavaScript, Python, dart
+- **Frameworks & Tools**: Flutter, Spring Boot, React.js, Node.js, Express.js
 - **Other**: Data Science
 
 ### 🔗 Connect with me:
